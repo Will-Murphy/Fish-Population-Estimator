@@ -1,4 +1,4 @@
-%  William Murphy(SID#30640826), March 30 2017, MIE124 MC IN-Class  
+%  William Murphy, March 30 2017  
 %% Fish Estimator Function Using MC Integration 
 function [stdev_halfday,mean_halfday, stdev_fullday,mean_fullday] = fishfinder
 
